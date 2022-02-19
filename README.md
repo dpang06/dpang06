@@ -24,7 +24,7 @@ This github consists of public projects solely written by me.
 - Mathematics
   - Optimization
   - Machine Learning
-  - Fun application mathematics in usual daily life
+  - Fun applied mathematics in usual daily life
 
 - Methods of learning and training
   - Anki
