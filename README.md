@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @dpang06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 dpang06/dpang06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# About Me
 I have been a web backend developer in Hong Kong for about 4 years. After that, I have been studying CS in Vancouver to pursue my career in Canada.
 I also have a Bsc in Mathematics.
 This github consists of public projects solely written by me.
