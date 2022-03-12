@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # About Me
-I worked as a web backend developer in Hong Kong for about 4 years. After that, I have been studying CS in Vancouver until now to pursue my career in Canada.
+I am a Full Stack Web Developer.
+I am studying Computer Studies in Langara, B.C. Canada.
+Before that, I have worked as a web backend developer in Hong Kong for about 4 years.
 I also have a Bsc in Mathematics.
 This github consists of public projects solely written by me.
 
